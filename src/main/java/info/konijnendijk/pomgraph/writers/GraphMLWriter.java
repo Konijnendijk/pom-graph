@@ -1,4 +1,4 @@
-package nl.konijnendijk.writers;
+package info.konijnendijk.pomgraph.writers;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

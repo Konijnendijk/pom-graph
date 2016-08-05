@@ -1,4 +1,4 @@
-package nl.konijnendijk.writers;
+package info.konijnendijk.pomgraph.writers;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

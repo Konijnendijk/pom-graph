@@ -1,8 +1,8 @@
-package nl.konijnendijk;
+package info.konijnendijk.pomgraph;
 
-import nl.konijnendijk.writers.CSVWriter;
-import nl.konijnendijk.writers.GraphMLWriter;
-import nl.konijnendijk.writers.GraphWriter;
+import info.konijnendijk.pomgraph.writers.CSVWriter;
+import info.konijnendijk.pomgraph.writers.GraphMLWriter;
+import info.konijnendijk.pomgraph.writers.GraphWriter;
 import org.apache.commons.cli.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

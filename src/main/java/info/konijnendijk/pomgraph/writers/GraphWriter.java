@@ -1,6 +1,4 @@
-package nl.konijnendijk.writers;
-
-import java.io.IOException;
+package info.konijnendijk.pomgraph.writers;
 
 /**
  * Interface to be implemented by classes writing a POM graph to a file
